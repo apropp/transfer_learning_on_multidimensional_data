@@ -1,0 +1,5 @@
+Data can be found at the following private URL:
+
+https://dataverse.harvard.edu/privateurl.xhtml?token=47e4b0c2-aba3-4c81-8168-891b6613e379
+
+This Private URL provides full read access to the dataset.
